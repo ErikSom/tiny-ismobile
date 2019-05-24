@@ -1,0 +1,24 @@
+{
+  "name": "tiny-ismobile",
+  "version": "1.0.0",
+  "description": "A very tiny script to check if javascript is running in a mobile browser, based on Mozilla docs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikSom/tiny-ismobile.git"
+  },
+  "keywords": [
+    "mobile",
+    "detection",
+    "ismobile"
+  ],
+  "author": "Erik Sombroek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErikSom/tiny-ismobile/issues"
+  },
+  "homepage": "https://github.com/ErikSom/tiny-ismobile#readme"
+}
