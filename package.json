@@ -1,6 +1,6 @@
 {
   "name": "tiny-ismobile",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A very tiny script to check if javascript is running in a mobile browser, based on Mozilla docs.",
   "main": "index.js",
   "scripts": {
