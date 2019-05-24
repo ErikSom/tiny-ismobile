@@ -1,5 +1,5 @@
 # tiny-ismobile
-A very tiny script to check if javascript is running in a mobile browser. From the [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
+A very tiny (66bytes) script to check if javascript is running in a mobile browser. Based on the [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent).
 
 ## Example
 
